@@ -1,7 +1,7 @@
 # ETUDE DE CAS BDD 
 
 ## GESTION DE BASE DE DONNEES INFOPLUS
- Realisé dans le cadre de la gestion de salariés d'une entreprise
+ Realisé dans le cadre de la gestion de salariés d'une entreprise fictive Infoplus
 
 ## Fonctionnalités à ajouter (voir trello)
 
@@ -14,6 +14,7 @@
 
 #### Conception BDD
 
+- Dictionnaire de données
 - MCD et image
 - MLD/MPD et image
 
